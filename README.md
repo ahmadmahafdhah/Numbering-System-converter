@@ -3,6 +3,8 @@
 This is a simple c code to convert number from binary to hexadeimal.
 or to  convert it from binary to decimal.
 
+**YOU CAN EDIT IT, AND PUT YOUR OWN FUNCTIONALLITY.**
+
 it starts by asking the user to enter the the system that he wants to convert from.
 Then, it asks the user to enter the number to be converted.
 and the third and final request is to enter the system the user wants to convert the number to it.
